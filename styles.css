@@ -1,0 +1,85 @@
+/* CSS */
+.nav-main {
+  width: 100%;
+  text-align: center;
+}
+.nav-right {
+  padding-right: 100px;
+}
+.icon {
+  color: #002E94;
+}
+#up {
+  text-align: center;
+}
+.pad-1 {
+  padding-top: 150px;
+}
+.ul-con-and-easy {
+  text-decoration-color: green;
+}
+body {
+  background-color: #EEF1FF;
+}
+.navbar {
+  background-color: #EEF1FF;
+}
+.container {
+  text-align: center;
+}
+.mid-div {
+  padding-top: 80px;
+  color: #002E94;
+
+}
+.text {
+  width: 600px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin: auto;
+  border: 2px solid white;
+}
+#mid {
+  text-align: center;
+}
+.mid2-div {
+  padding-top: 80px;
+}
+.time {
+  border-bottom: 5px solid #5432D3;
+}
+.money {
+  border-bottom: 5px solid #F05454;
+}
+.local {
+  border-bottom: 5px solid #FEC260;
+}
+.works {
+  width: 100%;
+  height: 600px;
+}
+.w-text {
+  text-align: center;
+  padding-top: 100px;
+}
+.bottom {
+  background-color: #A7FFE4;
+  width: 100%;
+  height: 550px;
+  text-align: center;
+}
+.b-box {
+  width: 50%;
+  margin:auto;
+  padding-top: 100px;
+}
+.b-text {
+  text-align: left;
+  background-color: #CDF0EA;
+  padding: 20px;
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom: 5px solid #002E94;
+}
